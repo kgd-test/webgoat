@@ -124,6 +124,7 @@
     <java.version>17</java.version>
     <jaxb.version>2.3.1</jaxb.version>
     <jjwt.version>0.9.1</jjwt.version>
+    <!-- jose4j: Hub-authorized redhat version not in Maven Central; requires Red Hat GA repo -->
     <jose4j.version>0.9.6.redhat-00002</jose4j.version>
     <jquery.version>3.7.0</jquery.version>
     <jsoup.version>1.23.2</jsoup.version>
